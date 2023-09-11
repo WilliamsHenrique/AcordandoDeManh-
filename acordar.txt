@@ -1,0 +1,21 @@
+Acordando e levantando da cama.
+
+1 * Descobrir o corpo, tirando o lençol
+2 * Pegando o celular
+3 * Tem notificação no celular ? (Sim)
+ 3.1 * Responder as notificações do celular
+ 3.2 * Ver vídeos aleatórios no YouTube
+4 * Levantar e procurar os calçados
+5 * Sair da cama
+6 * Ir até a cozinha
+7 * Pegar uma xícara
+8 * Colocar o café na xícara e adoçar
+9 * Tomar o café
+10 * Pegar uns pães
+11 * Passar margarina nos pães
+12 * Voltar para o quarto
+13 * ligar o computador
+14 * Abir o YouTube
+15 * Colocar sons relaxantes
+16 * Logar na conta da EBAC
+17 * Estudar Programação Java
